@@ -1,0 +1,20 @@
+{
+  "Samson": {
+    "phone-number": "5512270034",
+    "address": "floyd street",
+    "given-name": "Samson",
+    "email": "samsonpal01@gmail.com"
+  },
+  "Benson": {
+    "phone-number": "5512240023",
+    "address": "spruce street",
+    "given-name": "Benson",
+    "email": ""
+  },
+  "Stephen": {
+    "phone-number": "",
+    "address": "mountain view california",
+    "given-name": "Stephen",
+    "email": "xyz@gmail.com"
+  }
+}
